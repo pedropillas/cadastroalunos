@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 	public class ConectaBanco {
 	    
 	    private String usuario = "root";
-	    private String senha = "gremio1903";
+	    private String senha = "password";
 	    private String host = "localhost";
 	    private String porta = "3306";
 	    private String bd = "db_cadastroalunos";  
